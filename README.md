@@ -4,4 +4,4 @@
 npm install
 
 
-npn start
+npm start
